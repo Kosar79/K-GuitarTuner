@@ -1,0 +1,153 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "K-GuitarTuner", "http://localhost:60754", "{0D6A16A5-1275-4552-8B55-4E119D3D10AE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60754"
+		Debug.AspNetCompiler.PhysicalPath = "..\K-GuitarTuner\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60754\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60754"
+		Release.AspNetCompiler.PhysicalPath = "..\K-GuitarTuner\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60754\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\K-GuitarTuner\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PitchDetect", "http://localhost:53053", "{51B190B7-310B-41A3-9674-511316E551C3}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53053"
+		Debug.AspNetCompiler.PhysicalPath = "..\PitchDetect\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53053\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53053"
+		Release.AspNetCompiler.PhysicalPath = "..\PitchDetect\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53053\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\PitchDetect\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "guitar-tuner", "http://localhost:59294", "{7FD8296A-B49B-475A-BC1F-677219EEC79B}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59294"
+		Debug.AspNetCompiler.PhysicalPath = "..\guitar-tuner\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59294\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59294"
+		Release.AspNetCompiler.PhysicalPath = "..\guitar-tuner\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59294\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\guitar-tuner\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "teoria", "http://localhost:56279", "{0CA97894-E300-4845-9C1C-C44EB024185F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56279"
+		Debug.AspNetCompiler.PhysicalPath = "..\teoria\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56279\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56279"
+		Release.AspNetCompiler.PhysicalPath = "..\teoria\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56279\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\teoria\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AudioRecorder", "http://localhost:51271", "{560B56AA-0D4F-4A1F-82A2-B7F7DEFEA4A3}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51271"
+		Debug.AspNetCompiler.PhysicalPath = "..\AudioRecorder\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51271\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51271"
+		Release.AspNetCompiler.PhysicalPath = "..\AudioRecorder\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51271\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\AudioRecorder\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Responsive", "http://localhost:62909", "{39D17E00-4577-4E26-B720-3FCEEAF9A41D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62909"
+		Debug.AspNetCompiler.PhysicalPath = "..\Responsive_test\Responsive\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62909\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62909"
+		Release.AspNetCompiler.PhysicalPath = "..\Responsive_test\Responsive\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62909\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\Responsive_test\Responsive\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6A16A5-1275-4552-8B55-4E119D3D10AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6A16A5-1275-4552-8B55-4E119D3D10AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B190B7-310B-41A3-9674-511316E551C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B190B7-310B-41A3-9674-511316E551C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD8296A-B49B-475A-BC1F-677219EEC79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD8296A-B49B-475A-BC1F-677219EEC79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA97894-E300-4845-9C1C-C44EB024185F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA97894-E300-4845-9C1C-C44EB024185F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560B56AA-0D4F-4A1F-82A2-B7F7DEFEA4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560B56AA-0D4F-4A1F-82A2-B7F7DEFEA4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D17E00-4577-4E26-B720-3FCEEAF9A41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D17E00-4577-4E26-B720-3FCEEAF9A41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
